@@ -1,0 +1,5 @@
+C:\Users\jnaranjv\source\repos\TestConnectionString\TestConnectionString\bin\Debug\TestConnectionString.exe
+C:\Users\jnaranjv\source\repos\TestConnectionString\TestConnectionString\bin\Debug\TestConnectionString.pdb
+C:\Users\jnaranjv\source\repos\TestConnectionString\TestConnectionString\obj\Debug\TestConnectionString.csproj.CoreCompileInputs.cache
+C:\Users\jnaranjv\source\repos\TestConnectionString\TestConnectionString\obj\Debug\TestConnectionString.exe
+C:\Users\jnaranjv\source\repos\TestConnectionString\TestConnectionString\obj\Debug\TestConnectionString.pdb
